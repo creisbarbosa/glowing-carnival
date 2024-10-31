@@ -285,6 +285,17 @@
                             "eligebleForAuthorization": false
                         }
                     ]
+                },
+                {
+                    "theme": "Serviços",
+                    "permissions": [
+                        {
+                            "description": "Exclusão de agendamento PIX por pagamento",
+                            "eligebleForConsult": false,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
                 }
             ]
         }
