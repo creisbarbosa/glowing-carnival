@@ -1,0 +1,252 @@
+{
+    "data": [
+        {
+            "description": "Aplicação de Fundo",
+            "code_protheus": "301015"
+          },
+          {
+            "description": "Constituição de Fundo",
+            "code_protheus": "301015"
+          },
+          {
+            "description": "Desembolso de Cessão",
+            "code_protheus": "302010"
+          },
+          {
+            "description": "Devolução de Cessão Fiduciária",
+            "code_protheus": "302014"
+          },
+          {
+            "description": "Devolução de Fundo de Reserva",
+            "code_protheus": "302007"
+          },
+          {
+            "description": "Devolução de Impostos de Pagamento por Conta e Ordem",
+            "code_protheus": "302011"
+          },
+          {
+            "description": "Devolução de Impostos de Receitas Retidas",
+            "code_protheus": "302012"
+          },
+          {
+            "description": "Devolução de Lastro",
+            "code_protheus": "302015"
+          },
+          {
+            "description": "Devolução de Recursos Não Securitizados",
+            "code_protheus": "302016"
+          },
+          {
+            "description": "Devolução de Recursos por Erro",
+            "code_protheus": "302017"
+          },
+          {
+            "description": "Divisão de Arrecadação (Split)",
+            "code_protheus": "TRANSF4"
+          },
+          {
+            "description": "Liberação de Fundo de Obra",
+            "code_protheus": "302008"
+          },
+          {
+            "description": "Movimentação de Conta para Pagamento de Despesa",
+            "code_protheus": "TRANSF2"
+          },
+          {
+            "description": "Movimentação de Contas por Erro",
+            "code_protheus": "TRANSF3"
+          },
+          {
+            "description": "Movimentação para Conta de Liquidação",
+            "code_protheus": "302018"
+          },
+          {
+            "description": "Pagamento por Conta e Ordem",
+            "code_protheus": "302013"
+          },
+          {
+            "description": "Subida de Rendimento Proprietário",
+            "code_protheus": "401016"
+          },
+          {
+              "description": "Agente Administrativo",
+              "code_protheus": "2SVT35"
+          },
+          {
+              "description": "Assessor Legal",
+              "code_protheus": "2SVT002"
+          },
+          {
+              "description": "Agente de Medição",
+              "code_protheus": "2SVT36"
+          },
+          {
+              "description": "Agente Fiduciário",
+              "code_protheus": "2SVT006"
+          },
+          {
+              "description": "Publicação",
+              "code_protheus": "GAST003"
+          },
+          {
+              "description": "Associações",
+              "code_protheus": "GAST025"
+          },
+          {
+              "description": "Auditoria Comercial e Financeira",
+              "code_protheus": "2SVT004"
+          },
+          {
+              "description": "Auditoria Contábil",
+              "code_protheus": "2SVT004"
+          },
+          {
+              "description": "Agência de Rating",
+              "code_protheus": "GAST007"
+          },
+          {
+              "description": "Consultoria",
+              "code_protheus": "2SVT013"
+          },
+          {
+              "description": "Consultoria",
+              "code_protheus": "2SVT013"
+          },
+          {
+              "description": "Contabilidade",
+              "code_protheus": "2SVT005"
+          },
+          {
+              "description": "Custas Judiciais",
+              "code_protheus": "GAST009"
+          },
+          {
+              "description": "Custodiante",
+              "code_protheus": "GAST036"
+          },
+          {
+              "description": "Escriturador",
+              "code_protheus": "GAST001"
+          },
+          {
+              "description": "IPTU",
+              "code_protheus": "GAST010"
+          },
+          {
+              "description": "Prêmio de Seguro",
+              "code_protheus": "GAST008"
+          },
+          {
+              "description": "Seguro de Vida",
+              "code_protheus": "GAST012"
+          },
+          {
+              "description": "Seguro Habitacional",
+              "code_protheus": "2SVT37"
+          },
+          {
+              "description": "Servicer",
+              "code_protheus": "2SVT007"
+          },
+          {
+              "description": "Banco Liquidante",
+              "code_protheus": "GAST035"
+          },
+          {
+              "description": "Serviços de Tecnologia",
+              "code_protheus": "2SVT026"
+          },
+          {
+              "description": "Serviços de Terceiros",
+              "code_protheus": "2SVT008"
+          },
+          {
+              "description": "Softwares",
+              "code_protheus": "2SVT021"
+          },
+          {
+              "description": "Tarifas Bancárias",
+              "code_protheus": "GAST035"
+          },
+          {
+              "description": "Taxa Condominal",
+              "code_protheus": "GAST030"
+          },
+          {
+              "description": "Taxa de Administração",
+              "code_protheus": "2SVT003"
+          },
+          {
+              "description": "Taxa de Administração de CRA",
+              "code_protheus": "2SVT003"
+          },
+          {
+              "description": "Taxa de Administração de CRI",
+              "code_protheus": "2SVT003"
+          },
+          {
+              "description": "Consultoria",
+              "code_protheus": "2SVT013"
+          },
+          {
+              "description": "Taxa de Distribuição",
+              "code_protheus": "2SVT011"
+          },
+          {
+              "description": "Taxa de Distribuição de CRA",
+              "code_protheus": "1REC008"
+          },
+          {
+              "description": "Taxa de Distribuição de CRI",
+              "code_protheus": "1REC003"
+          },
+          {
+              "description": "Taxa de Emissão de CRA",
+              "code_protheus": "1REC007"
+          },
+          {
+              "description": "Taxa de Emissão de CRI",
+              "code_protheus": "1REC002"
+          },
+          {
+              "description": "Taxa de Estruturação",
+              "code_protheus": "2SVT010"
+          },
+          {
+              "description": "Taxa de Integralização de CRA",
+              "code_protheus": "1REC009"
+          },
+          {
+              "description": "Taxa de Integralização de CRI",
+              "code_protheus": "1REC004"
+          },
+          {
+              "description": "Taxa de Master Servicer",
+              "code_protheus": "GAST035"
+          },
+          {
+              "description": "Taxa de ReEstruturação de CRA",
+              "code_protheus": "GAST035"
+          },
+          {
+              "description": "Taxa de ReEstruturação de CRI",
+              "code_protheus": "GAST035"
+          },
+          {
+              "description": "Taxa CVM",
+              "code_protheus": "GAST028"
+          },
+          {
+              "description": "Taxa de Câmera de Registro/Liquidação/Custódia",
+              "code_protheus": "GAST035"
+          },
+          {
+              "description": "Taxa e Emolumentos de Catórios",
+              "code_protheus": "GAST026"
+          },
+          {
+              "description": "Outras Despesas",
+              "code_protheus": "GAST035"
+          }
+    ]
+}

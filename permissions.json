@@ -1,0 +1,292 @@
+{
+    "data": [
+        {
+            "operation": "Saldos e extratos",
+            "themes": [
+                {
+                    "theme": "Saldos e extratos",
+                    "permissions": [
+                        {
+                            "description": "Saldos e extratos",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        }
+                    ]
+                },
+                {
+                    "theme": "Conta Opea",
+                    "permissions": [
+                        {
+                            "description": "Saldos, últimos lançamentos, lançamentos futuro",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        },
+                        {
+                            "description": "Últimos 30 dias",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        },
+                        {
+                            "description": "Extrato por período",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        }
+                    ]
+                },
+                {
+                    "theme": "Conta Escrow",
+                    "permissions": [
+                        {
+                            "description": "Saldos, últimos lançamentos, lançamentos futuro",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        },
+                        {
+                            "description": "Últimos 30 dias",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        },
+                        {
+                            "description": "Extrato por período",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        }
+                    ]
+                },
+                {
+                    "theme": "Caixinhas",
+                    "permissions": [
+                        {
+                            "description": "Saldos, últimos lançamentos",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        },
+                        {
+                            "description": "Últimos 30 dias",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        },
+                        {
+                            "description": "Extrato por período",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        }
+                    ]
+                },
+                {
+                    "theme": "Extrato em arquivo",
+                    "permissions": [
+                        {
+                            "description": "Exportar extrato em arquivo",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "operation": "Pagamentos",
+            "themes": [
+                {
+                    "theme": "Ajustar limites",
+                    "permissions": [
+                        {
+                            "description": "Ajustar limites",
+                            "eligebleForConsult": false,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                },
+                {
+                    "theme": "Contas",
+                    "permissions": [
+                        {
+                            "description": "Água, luz, telefone e gás",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Boletos de cobrança",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                },
+                {
+                    "theme": "Tibutos",
+                    "permissions": [
+                        {
+                            "description": "DARF",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "GARE",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "GPS",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "IPVA",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "DPVAT",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Licenciamento",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "IPTU / Via código de brras / Simples nacional",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                },
+                {
+                    "theme": "Agendamento programado de boletos",
+                    "permissions": [
+                        {
+                            "description": "Consultar, alterar, excluir programação",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                },
+                {
+                    "theme": "Débito automático",
+                    "permissions": [
+                        {
+                            "description": "Débito automático",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Consultar, alterar, excluir programação",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                },
+                {
+                    "theme": "Serviços",
+                    "permissions": [
+                        {
+                            "description": "Exclusão de agendamento de boleto de cobrança",
+                            "eligebleForConsult": false,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Exclusão de agendamento DARF",
+                            "eligebleForConsult": false,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": true
+                        },                        {
+                            "description": "Exclusão de agendamento GPS",
+                            "eligebleForConsult": false,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Exclusão de agendamento GARE",
+                            "eligebleForConsult": false,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "operation": "PIX",
+            "themes": [
+                {
+                    "theme": "Administração",
+                    "permissions": [
+                        {
+                            "description": "Chaves",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                },
+                {
+                    "theme": "Pagar",
+                    "permissions": [
+                        {
+                            "description": "Transferir",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        }
+                    ]
+                },
+                {
+                    "theme": "Consultas",
+                    "permissions": [
+                        {
+                            "description": "Devolver",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Extrato",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Relatórios",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": true,
+                            "eligebleForAuthorization": true
+                        },
+                        {
+                            "description": "Extrato em arquivo",
+                            "eligebleForConsult": true,
+                            "eligebleForInclusion": false,
+                            "eligebleForAuthorization": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

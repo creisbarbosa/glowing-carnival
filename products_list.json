@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "product": "Gasto com Agente Administrativo",
+      "product_code": "2SVT35",
+      "product_protheus": "Agente Administrativo",
+      "new_name": "Agente Administrativo"
+    },
+    {
+      "product": "Gastos com Advogado",
+      "product_code": "2SVT002",
+      "product_protheus": "HONORARIOS ADVOCATICIOS",
+      "new_name": "Assessor Legal"
+    },
+    {
+      "product": "Gastos com Agente de Medição",
+      "product_code": "2SVT36",
+      "product_protheus": "AGENTE DE MEDICAO",
+      "new_name": "Agente de Medição"
+    },
+    {
+      "product": "Gastos com Agentes Fiduciários",
+      "product_code": "2SVT006",
+      "product_protheus": "AGENTES FIDUCIARIOS",
+      "new_name": "Agente Fiduciário"
+    },
+    {
+      "product": "Gastos com Anúncios e Publicações",
+      "product_code": "GAST003",
+      "product_protheus": "GASTOS COM PUBLICACAO",
+      "new_name": "Publicação"
+    },
+    {
+      "product": "Gastos com Associação de Classe",
+      "product_code": "GAST025",
+      "product_protheus": "ASSOCIACOES",
+      "new_name": "Associações"
+    },
+    {
+      "product": "Gastos com Auditoria comercial e Financeira",
+      "product_code": "2SVT004",
+      "product_protheus": "GASTOS HONORARIOS DE AUDITORIA",
+      "new_name": "Auditoria Comercial e Financeira"
+    },
+    {
+      "product": "Gastos com Auditoria Contábil",
+      "product_code": "2SVT004",
+      "product_protheus": "GASTOS HONORARIOS DE AUDITORIA",
+      "new_name": "Auditoria Contábil"
+    },
+    {
+      "product": "Gastos com Classificação de Risco",
+      "product_code": "GAST007",
+      "product_protheus": "GASTOS RATING",
+      "new_name": "Agência de Rating"
+    },
+    {
+      "product": "Gastos com Consultoria Administrativa",
+      "product_code": "2SVT013",
+      "product_protheus": "GASTOS CONSULTORIA",
+      "new_name": "Consultoria"
+    },
+    {
+      "product": "Gastos com Consultoria Imobiliária",
+      "product_code": "2SVT013",
+      "product_protheus": "GASTOS CONSULTORIA",
+      "new_name": "Consultoria"
+    },
+    {
+      "product": "Gastos com Contabilidade",
+      "product_code": "2SVT005",
+      "product_protheus": "GASTOS HONORARIOS CONTABEIS",
+      "new_name": "Contabilidade"
+    },
+    {
+      "product": "Gastos com Custas Judiciais",
+      "product_code": "GAST009",
+      "product_protheus": "CUSTAS JUDICIAIS",
+      "new_name": "Custas Judiciais"
+    },
+    {
+      "product": "Gastos com Custodiante",
+      "product_code": "GAST036",
+      "product_protheus": "TAXAS DE CUSTODIA",
+      "new_name": "Custodiante"
+    },
+    {
+      "product": "Gastos com Escrituração",
+      "product_code": "GAST001",
+      "product_protheus": "TAXAS DE ESCRITURACAO",
+      "new_name": "Escriturador"
+    },
+    {
+      "product": "Gastos com IPTU",
+      "product_code": "GAST010",
+      "product_protheus": "IPTU",
+      "new_name": "IPTU"
+    },
+    {
+      "product": "Gastos com Prêmios de Seguros",
+      "product_code": "GAST008",
+      "product_protheus": "SEGUROS (EXCETO VIDA)",
+      "new_name": "Prêmio de Seguro"
+    },
+    {
+      "product": "Gastos com Seguro de Vida",
+      "product_code": "GAST012",
+      "product_protheus": "SEGURO DE VIDA",
+      "new_name": "Seguro de Vida"
+    },
+    {
+      "product": "Gastos com Seguro Habitacional",
+      "product_code": "2SVT37",
+      "product_protheus": "Seguro Habitacional",
+      "new_name": "Seguro Habitacional"
+    },
+    {
+      "product": "Gastos com Servicer",
+      "product_code": "2SVT007",
+      "product_protheus": "GASTOS SERVICING",
+      "new_name": "Servicer"
+    },
+    {
+      "product": "Gastos com Serviço de Banco Liquidante",
+      "product_code": "GAST035",
+      "product_protheus": "OUTROS GASTOS",
+      "new_name": "Banco Liquidante"
+    },
+    {
+      "product": "Gastos com Serviços de Tecnologia",
+      "product_code": "2SVT026",
+      "product_protheus": "SERVICOS DE INFORMATICA",
+      "new_name": "Serviços de Tecnologia"
+    },
+    {
+      "product": "Gastos com Serviços de Terceiros",
+      "product_code": "2SVT008",
+      "product_protheus": "SERVICOS DE TERCEIROS",
+      "new_name": "Serviços de Terceiros"
+    },
+    {
+      "product": "Gastos com Softwares",
+      "product_code": "2SVT021",
+      "product_protheus": "SOFTWARES",
+      "new_name": "Softwares"
+    },
+    {
+      "product": "Gastos com Tarifas Bancárias",
+      "product_code": "GAST035",
+      "product_protheus": "OUTROS GASTOS",
+      "new_name": "Tarifas Bancárias"
+    },
+    {
+      "product": "Gastos com Taxa Condominial",
+      "product_code": "GAST030",
+      "product_protheus": "CONDOMINIO",
+      "new_name": "Taxa Condominal"
+    },
+    {
+      "product": "Gastos com Taxa de Administração",
+      "product_code": "2SVT003",
+      "product_protheus": "GASTOS TAXAS DE ADMINISTRACAO",
+      "new_name": "Taxa de Administração"
+    },
+    {
+      "product": "Gastos com Taxa de Administração de CRA",
+      "product_code": "2SVT003",
+      "product_protheus": "GASTOS TAXAS DE ADMINISTRACAO",
+      "new_name": "Taxa de Administração de CRA"
+    },
+    {
+      "product": "Gastos com Taxa de Administração de CRI",
+      "product_code": "2SVT003",
+      "product_protheus": "GASTOS TAXAS DE ADMINISTRACAO",
+      "new_name": "Taxa de Administração de CRI"
+    },
+    {
+      "product": "Gastos com Taxa de Consultoria",
+      "product_code": "2SVT013",
+      "product_protheus": "GASTOS CONSULTORIA",
+      "new_name": "Consultoria"
+    },
+    {
+      "product": "Gastos com Taxa de Distribuição",
+      "product_code": "2SVT011",
+      "product_protheus": "GASTOS FEE DE DISTRIBUICAO",
+      "new_name": "Taxa de Distribuição"
+    },
+    {
+      "product": "Gastos com Taxa de Distribuição de CRA",
+      "product_code": "1REC008",
+      "product_protheus": "TAXA DE DISTRIBUICAO DE CRA",
+      "new_name": "Taxa de Distribuição de CRA"
+    },
+    {
+      "product": "Gastos com Taxa de Distribuição de CRI",
+      "product_code": "1REC003",
+      "product_protheus": "TAXA DE DISTRIBUICAO DE CRI",
+      "new_name": "Taxa de Distribuição de CRI"
+    },
+    {
+      "product": "Gastos com Taxa de Emissão de CRA",
+      "product_code": "1REC007",
+      "product_protheus": "TAXA DE EMISSAO DE CRA",
+      "new_name": "Taxa de Emissão de CRA"
+    },
+    {
+      "product": "Gastos com Taxa de Emissão de CRI",
+      "product_code": "1REC002",
+      "product_protheus": "TAXA DE EMISSAO DE CRI",
+      "new_name": "Taxa de Emissão de CRI"
+    },
+    {
+      "product": "Gastos com Taxa de Estruturação",
+      "product_code": "2SVT010",
+      "product_protheus": "GASTOS FEE DE ESTRUTURACAO",
+      "new_name": "Taxa de Estruturação"
+    },
+    {
+      "product": "Gastos com Taxa de Integralização de CRA",
+      "product_code": "1REC009",
+      "product_protheus": "TAXA DE INTEGRALIZACAO DE CRA",
+      "new_name": "Taxa de Integralização de CRA"
+    },
+    {
+      "product": "Gastos com Taxa de Integralização de CRI",
+      "product_code": "1REC004",
+      "product_protheus": "TAXA DE INTEGRALIZACAO DE CRI",
+      "new_name": "Taxa de Integralização de CRI"
+    },
+    {
+      "product": "Gastos com Taxa de Master Servicer",
+      "product_code": "GAST035",
+      "product_protheus": "OUTROS GASTOS",
+      "new_name": "Taxa de Master Servicer"
+    },
+    {
+      "product": "Gastos com Taxa de ReEstruturação de CRA",
+      "product_code": "GAST035",
+      "product_protheus": "OUTROS GASTOS",
+      "new_name": "Taxa de ReEstruturação de CRA"
+    },
+    {
+      "product": "Gastos com Taxa de ReEstruturação de CRI",
+      "product_code": "GAST035",
+      "product_protheus": "OUTROS GASTOS",
+      "new_name": "Taxa de ReEstruturação de CRI"
+    },
+    {
+      "product": "Gastos com Taxas CVM",
+      "product_code": "GAST028",
+      "product_protheus": "TAXAS CVM/BOVESPA",
+      "new_name": "Taxa CVM"
+    },
+    {
+      "product": "Gastos com Taxas de Câmera de Registro/Liquidação/Custódia",
+      "product_code": "GAST035",
+      "product_protheus": "OUTROS GASTOS",
+      "new_name": "Taxa de Câmera de Registro/Liquidação/Custódia"
+    },
+    {
+      "product": "Gastos com Taxas e Emolumentos de Catórios",
+      "product_code": "GAST026",
+      "product_protheus": "TAXAS E EMOLUMENTOS",
+      "new_name": "Taxa e Emolumentos de Catórios"
+    },
+    {
+      "product": "Outras Despesas",
+      "product_code": "GAST035",
+      "product_protheus": "OUTROS GASTOS",
+      "new_name": "Outras Despesas"
+    }
+  ]
+}

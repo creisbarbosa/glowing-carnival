@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "moviment_id": "a56ee3a5-008b-ee11-8179-00224824ea81",
+      "description": "Aplicação de Fundo",
+      "nature_code": "301015",
+      "nature": "Recomposição/Utilização de Fundos"
+    },
+    {
+      "moviment_id": "f4cc2a13-f18a-ee11-8179-00224824ea81",
+      "description": "Constituição/Composição de Fundo",
+      "nature_code": "301015",
+      "nature": "Recomposição/Utilização de Fundos"
+    },
+    {
+      "moviment_id": "f4d369bc-ec4f-ee11-be6f-00224824ee0a",
+      "description": "Desembolso de Cessão",
+      "nature_code": "302010",
+      "nature": "DESEMBOLSO DE CESSAO"
+    },
+    {
+      "moviment_id": "cb2d3fc1-ec4f-ee11-be6f-0022482273cf",
+      "description": "Devolução de Cessão Fiduciária",
+      "nature_code": "302014",
+      "nature": "DEVOLUCAO DE CESSAO FIDUCIARIA"
+    },
+    {
+      "moviment_id": "d12d3fc1-ec4f-ee11-be6f-0022482273cf",
+      "description": "Devolução de Fundo de Reserva",
+      "nature_code": "302007",
+      "nature": "DEVOLUCAO DE FUNDO DE RESERVA"
+    },
+    {
+      "moviment_id": "c7b68ac2-ec4f-ee11-be6f-00224824ee0a",
+      "description": "Devolução de Impostos de Pagamento por Conta e Ordem",
+      "nature_code": "302011",
+      "nature": "DEVOL. DE IMP. DE PGTO POR CONTA E ORDEM"
+    },
+    {
+      "moviment_id": "d62d3fc1-ec4f-ee11-be6f-0022482273cf",
+      "description": "Devolução de Impostos de Receitas Retidas",
+      "nature_code": "302012",
+      "nature": "DEVOLUCAO DE IMPOSTO DE RECEITAS RETIDAS"
+    },
+    {
+      "moviment_id": "dc2d3fc1-ec4f-ee11-be6f-0022482273cf",
+      "description": "Devolução de Lastro",
+      "nature_code": "302015",
+      "nature": "DEVOLUCAO DE LASTRO"
+    },
+    {
+      "moviment_id": "f3b68ac2-ec4f-ee11-be6f-00224824ee0a",
+      "description": "Devolução de Recursos Não Securitizados",
+      "nature_code": "302016",
+      "nature": "DEVOLUCAO DE RECURSOS NAO SECURITIZADOS"
+    },
+    {
+      "moviment_id": "b0fab0c3-ec4f-ee11-be6f-00224823fa6d",
+      "description": "Devolução de Recursos por Erro",
+      "nature_code": "302017",
+      "nature": "DEVOLUCAO DE RECURSOS POR ERRO"
+    },
+    {
+      "moviment_id": "bc8985d9-e08a-ee11-8179-00224824e1a7",
+      "description": "Divisão de Arrecadação (Split)",
+      "nature_code": "TRANSF4",
+      "nature": "MOVIMENTACAO PARA CONTA DE LIQUIDACAO"
+    },
+    {
+      "moviment_id": "a27fb3c7-ec4f-ee11-be6f-0022482273cf",
+      "description": "Liberação de Fundo de Obra",
+      "nature_code": "302008",
+      "nature": "LIBERACAO DE FUNDO DE OBRA"
+    },
+    {
+      "moviment_id": "a97fb3c7-ec4f-ee11-be6f-0022482273cf",
+      "description": "Movimentação de Conta para Pagamento de Despesa",
+      "nature_code": "TRANSF2",
+      "nature": "MOV. DE CONTA PARA PAGAMENTO DE DESPESA"
+    },
+    {
+      "moviment_id": "7dc446ca-ec4f-ee11-be6f-00224823fa6d",
+      "description": "Movimentação de Contas por Erro",
+      "nature_code": "TRANSF3",
+      "nature": "MOVIMENTACAO DE CONTAS POR ERRO"
+    },
+    {
+      "moviment_id": "b17fb3c7-ec4f-ee11-be6f-0022482273cf",
+      "description": "Movimentação para Conta de Liquidação",
+      "nature_code": "302018",
+      "nature": "PAGAMENTO DE CRI/CRA"
+    },
+    {
+      "moviment_id": "b77fb3c7-ec4f-ee11-be6f-0022482273cf",
+      "description": "Pagamento por Conta e Ordem",
+      "nature_code": "302013",
+      "nature": "PAGAMENTO POR CONTA E ORDEM"
+    },
+    {
+      "moviment_id": "86c446ca-ec4f-ee11-be6f-00224823fa6d",
+      "description": "Subida de Rendimento Proprietário",
+      "nature_code": "401016",
+      "nature": "REPASSE DE FLOATING Não SECURITIZADO"
+    }
+  ]
+}

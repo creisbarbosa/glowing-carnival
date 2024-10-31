@@ -1,0 +1,52 @@
+{
+   "data": [
+        {
+            "id": 1,
+            "description": "Antecipação"
+        },
+        {
+            "id": 2,
+            "description": "Cessão Fiduciária"
+        },
+        {
+            "id": 3,
+            "description": "Fundo de Despesas"
+        },
+        {
+            "id": 4,
+            "description": "Fundo de Juros"
+        },
+        {
+            "id": 5,
+            "description": "Fundo de Leilão"
+        },
+        {
+            "id": 6,
+            "description": "Fundo de Liquidez"
+        },
+        {
+            "id": 7,
+            "description": "Fundo de Obra"
+        },
+        {
+            "id": 8,
+            "description": "Fundo de Performance"
+        },
+        {
+            "id": 9,
+            "description": "Fundo de Reserva"
+        },
+        {
+            "id": 10,
+            "description": "Fundo de Despesas FLAT"
+        },
+        {
+            "id": 11,
+            "description": "Fundo de Despesas Recorrentes"
+        },
+        {
+            "id": 16,
+            "description": "Recursos Residuais"
+        }
+    ]
+}
