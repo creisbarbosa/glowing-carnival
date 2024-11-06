@@ -1,0 +1,75 @@
+{
+    "dadosConta": {
+        "nrAgencia": "1",
+        "tpConta": 1,
+        "nomeTpConta": "Conta Rendimento",
+        "nrConta": "2076",
+        "nomeConta": "CRI_E0342_S01_02_WTC  - WTC",
+        "nomeTitular": "OPEA SECURITIZADORA S.A.",
+        "tpPessoaTitular": 1,
+        "cpfCnpjTitular": 11111111000191,
+        "hrCorte": "16:00:00",
+        "dtHrSaldo": "2024-11-04T16:00:00.000Z",
+        "saldoTotal":  3300516.12,
+        "dtHrResgate": "2024-11-05T06:00:00.000Z",
+        "peformanceResgate": {
+            "taxaAnualCDI": 0.1065,
+            "fatorDi": 1.000401675,
+            "fatorDiContas": 1.000304988
+        },
+        "contaOpea": {
+            "saldoContaOpea": 0.10,
+            "vlrRendimentoBrutoCDI": 0.00,
+            "vlrRendimentoBrutoCompromissada": 0.00,
+            "vlrRendimentoLiquidoSCD": 0.00
+        },
+        "caixinhas": [
+            {
+                "idCaixinha": 3,
+                "nomeCaixinha": "Fundo de Despesa",
+                "saldo": 120397.69,
+                "remunerada": true,
+                "taxaRendimentoCaixinha": 0.75,
+                "rendimento": {
+                        "vlrRendimentoBrutoCDI": 48.36,
+                        "vlrRendimentoBrutoCompromissada": 47.88,
+                        "vlrRendimentoBrutoConta": 36.27,
+                        "vlrRendimentoLiquidoConta": 28.11, 
+                        "IRRF": 8.16,
+                        "vlrRendimentoLiquidoSCD": 11.61
+                    }
+            },
+            {
+                "idCaixinha": 10,
+                "nomeCaixinha": "Fundo de Despesa Flat",
+                "saldo":  310250.71,
+                "remunerada": false,
+                "taxaRendimentoCaixinha": 0,
+                "rendimento": {
+                    "vlrRendimentoBrutoCDI": 124.62,
+                    "vlrRendimentoBrutoCompromissada": 123.37,
+                    "vlrRendimentoBrutoConta": 0.00,
+                    "vlrRendimentoLiquidoConta": 0.00, 
+                    "IRRF": 0.00,
+                    "vlrRendimentoLiquidoSCD": 123.37
+                }
+            },
+            {
+                "idCaixinha": 9,
+                "nomeCaixinha": "Fundo de Reserva",
+                "saldo":  2869867.62,
+                "remunerada": true,
+                "taxaRendimentoCaixinha": 0.75,
+                "rendimento": {
+                        "vlrRendimentoBrutoCDI": 1152.76,
+                        "vlrRendimentoBrutoCompromissada": 1141.23,
+                        "vlrRendimentoBrutoConta": 864.57,
+                        "vlrRendimentoLiquidoConta": 670.04, 
+                        "IRRF": 194.53,
+                        "vlrRendimentoLiquidoSCD": 276.66
+                    }
+            }
+        ]
+    }
+
+}

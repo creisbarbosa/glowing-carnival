@@ -1,0 +1,35 @@
+{
+    "tpContas": [
+        {
+        "nomeTpConta": "Conta Liquidante",
+        "tpConta": 1,
+        "podeTerCaixinhaRemunerada": false
+        },
+        {
+        "nomeTpConta": "Conta Pagamento",
+        "tpConta": 2,
+        "podeTerCaixinhaRemunerada": false
+        },
+        {
+        "nomeTpConta": "Conta Collect",
+        "tpConta": 3,
+        "podeTerCaixinhaRemunerada": false
+        },
+        {
+        "nomeTpConta": "Conta Sweep",
+        "tpConta": 4,
+        "podeTerCaixinhaRemunerada": false
+        },
+        {
+        "nomeTpConta": "Conta Escrow",
+        "tpConta": 5,
+        "podeTerCaixinhaRemunerada": true
+        },
+        {
+        "nomeTpConta": "Conta Remunerada",
+        "tpConta": 6,
+        "podeTerCaixinhaRemunerada": true
+        }
+    ]
+
+}
