@@ -1,0 +1,65 @@
+{
+    "data": {
+        "type": "pix_dynamic_quick_response_codes",
+        "attributes": {
+            "description": null,
+            "identifier": null,
+            "pix_key": {
+                "id": null,
+                "user_id": null,
+                "value": "4004901d-bd85-4769-8e52-cb4c42c506dc",
+                "created_at": null,
+                "updated_at": null,
+                "status": "pending",
+                "verification_code": null,
+                "cross_validation_identifier": null
+            },
+            "pix_key_id": null,
+            "payer_info": null,
+            "amount_info": {
+                "total": "505.74",
+                "original_value": "505.74",
+                "interest": "0.0",
+                "fine": "0.0",
+                "rebate": null,
+                "discount": null,
+                "payment_due_date": "2024-11-17",
+                "grace_period": 30
+            },
+            "date_info": null,
+            "options": {
+                "end_to_end_id": "E3951994420241107122038069521037",
+                "favored_name": "QRTester",
+                "favored_city": "BRASILIA",
+                "favored_company_name": "Teste de Interoperabilidade para QR Codes Pix",
+                "favored_address": "Setor Bancario Sul SBS Quadra 3 Bloco B Ed Sede",
+                "favored_state": "DF",
+                "favored_zipcode": "70074900",
+                "payer_name": "Fulano de Tal",
+                "payer_document": "76737743641",
+                "payment_flexibility_option": null,
+                "payment_status": 0,
+                "withdraw_value": null,
+                "withdraw_flexibility_option": null,
+                "withdraw_ispb_fss": null,
+                "withdraw_agent": null,
+                "change_value": null,
+                "change_flexibility_option": null,
+                "change_ispb_fss": null,
+                "change_agent": null,
+                "qr_expiration_time": null,
+                "qr_created_at": "2024-11-07T09:20:22.02Z",
+                "qr_presented_at": "2024-11-07T12:20:38.139Z",
+                "qr_reusable?": true,
+                "additional_description": null
+            },
+            "code_info": null,
+            "items": null,
+            "errors": [],
+            "type": "PIX::DynamicQuickResponseCode",
+            "transaction_id": "b04e729ebf464ab49e2d7a5b423a9b5d",
+            "psp_transaction_id": null,
+            "end_to_end_id": "E3951994420241107122038069521037"
+        }
+    }
+}
